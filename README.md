@@ -11,7 +11,7 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 ## Session 1: The Beginning
 
 [![SESSION 1 LINK](https://img.shields.io/badge/Session%20Link-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git101)
-
+[![SESION 1 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1EDMNFF7BlpKr8RQgKCP7qjnX3Tomrs18hlFUBZH3qV0/edit?usp=sharing)
 ### Agenda
 
 - Introduction to Git
@@ -20,6 +20,15 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 - Working and Core Concepts
 - Basic Commands
 - Quick Demo
+
+### Resources
+
+- [Git SCM](https://git-scm.com)
+- [Git Source Code](https://github.com/git/git)
+- [Github](https://github.com)
+- [Gitlab](https://about.gitlab.com)
+- [Bitbucket](https://bitbucket.org)
+- [Download VS code](https://code.visualstudio.com/Download)
 
 ---
 
