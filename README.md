@@ -4,7 +4,7 @@
 
 Welcome to the Playing with Git and GitHub series. It is framed to be a collection of 4 sessions covering all bits and bytes of Git, starting from the ground level.
 
-[![PLAYLIST](https://img.shields.io/badge/Playlist%20of%20sessions-COMING%20SOON-green?style=for-the-badge&logo=appveyor)](#playing-with-git-and-github-git-week)
+[![PLAYLIST](https://img.shields.io/badge/Playlist%20of%20sessions-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git100)
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 
 ## Session 2: Diving Towards the Center
 
-[![COMING SOON](https://img.shields.io/badge/Coming%20Soon-orange?style=for-the-badge)](#playing-with-git-and-github-git-week)
+[![SESSION 2 LINK](https://img.shields.io/badge/Session%20Link-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git102)
 
 ### Agenda
 
