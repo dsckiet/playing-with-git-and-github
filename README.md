@@ -35,7 +35,7 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 ## Session 2: Diving Towards the Center
 
 [![SESSION 2 LINK](https://img.shields.io/badge/Session%20Link-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git102)
-
+[![SESSION 2 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1ZoJNjnOg4rbTBB3TQ6zNK5k2QqsM6O1Qd5XiLxXGSYg/edit?usp=sharing)
 ### Agenda
 
 - Creating a new repository
@@ -43,6 +43,16 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 - Exploring Git Commands
 - Git Workflows
 - Exploring GitHub
+
+### Resources
+
+- [Github](https://github.com)
+- [Demo Repository 1](https://github.com/ritiksr25/playing-with-git-template)
+- [Demo Repository 2](https://github.com/ritiksr25/playing-with-git)
+- [Official Git Docs](https://git-scm.com/doc)
+- [Github Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Visual Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
+- [Github Guides](https://guides.github.com)
 
 ---
 
