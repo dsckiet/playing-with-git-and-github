@@ -14,12 +14,10 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 [![SESION 1 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1EDMNFF7BlpKr8RQgKCP7qjnX3Tomrs18hlFUBZH3qV0/edit?usp=sharing)
 ### Agenda
 
-- Introduction to Git
-- Git Hosting
-- Setting up the environment
-- Working and Core Concepts
-- Basic Commands
-- Quick Demo
+- Git: what, why, features, history
+- Installation and environment setup
+- Core and working concepts
+- Basic Git commands
 
 ### Resources
 
@@ -38,11 +36,11 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 [![SESSION 2 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1ZoJNjnOg4rbTBB3TQ6zNK5k2QqsM6O1Qd5XiLxXGSYg/edit?usp=sharing)
 ### Agenda
 
-- Creating a new repository
-- Demo of typical Git working
-- Exploring Git Commands
-- Git Workflows
-- Exploring GitHub
+- Creating Repository: init, cloneg, template
+- Working with repo: add, commit, stash
+- Inspection: status, log, diff
+- Remote and Branching
+- Gitignore, Markdown, alias, workflows
 
 ### Resources
 
@@ -58,15 +56,20 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 
 ## Session 3: Working with Teams
 
-[![COMING SOON](https://img.shields.io/badge/Coming%20Soon-orange?style=for-the-badge)](#playing-with-git-and-github-git-week)
+[![SESSION 3 LINK](https://img.shields.io/badge/sesssion%20Link-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git103)
+[![SESSION 3 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1JgaNT1_tdZum2n3TSqKGN9za7Vy4uxnnZbNfNHnNCbE/edit?usp=sharing)
 
 ### Agenda
 
-- Organisation and Repository
-- Forking and Cloning
-- Remote: Local, Origin, Upstream
-- Pull Requests and Merge Conflicts
-- Ideal Github Workflow
+- Working with organisations
+- Remotes:local, origin, upstream
+- Forking and cloning
+- Pull requests and merge conflicts
+
+### Resources
+
+- [Demo Repository Upstream](https://github.com/dsckiet/git-demo)
+- [Demo Repository Origin](https://github.com/ritiksr25/git-demo)
 
 ---
 
@@ -76,10 +79,8 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 
 ### Agenda
 
-- Revisiting Git
 - Merging vs Rebasing
-- Cherry Picking
-- Tags and Releases
-- Exploring Github
-- Golden rules for clean git hygiene
+- Cherry Picking, Tags, Releases
 - Contributing to Open Source
+- Golden rules for Git
+- Exploring Github
