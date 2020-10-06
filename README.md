@@ -75,7 +75,8 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 
 ## Session 4: What's Next??
 
-[![COMING SOON](https://img.shields.io/badge/Coming%20Soon-orange?style=for-the-badge)](#playing-with-git-and-github-git-week)
+[![SESSION 4 LINK](https://img.shields.io/badge/sesssion%20Link-visit-green?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/git104)
+[![SESSION 4 SLIDES](https://img.shields.io/badge/Slides-visit-orange?style=for-the-badge&logo=appveyor)](https://docs.google.com/presentation/d/1fBKJxd0RKXRQM3v_YWEDCVXZjY5ybiFHsAc8IVAIivo/edit?usp=sharing)
 
 ### Agenda
 
@@ -84,3 +85,18 @@ Welcome to the Playing with Git and GitHub series. It is framed to be a collecti
 - Contributing to Open Source
 - Golden rules for Git
 - Exploring Github
+
+### Resources
+
+- [Demo Repository](https://github.com/dsckiet/git-demo)
+- [Github Docs for Releases](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github)
+- [Github Student Developer Pack](https://education.github.com/pack)
+- [Github Beginner Projects Collection](https://github.com/collections/choosing-projects)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [Freecodecamp Repo for OS](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+- [Official Git Docs](https://git-scm.com/doc)
+- [Github Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Visual Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
+- [Github Docs](https://docs.github.com/en)
+- [Github Guides](https://guides.github.com)
